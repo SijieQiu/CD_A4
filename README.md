@@ -119,7 +119,7 @@ Named_Entities
 ['WORK_OF_ART', 'WORK_OF_ART', 'ORG', 'TIME', 'NORP', 'TIME', 'WORK_OF_ART', 'WORK_OF_ART', 'TIME']
 ['PERSON', 'ORG', 'PERSON', 'PRODUCT', 'PERSON', 'GPE', 'ORDINAL', 'PERSON']...
 
-### Tools
+### Tools:
 
 SpaCy
 
