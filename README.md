@@ -115,25 +115,26 @@ SpaCy
 
 ### txt and csv
 
-Description of the columns in the CSV file
+```Description of the columns in the CSV file```
 
-``Filename (the name of the original text file in the data folder).
+Filename :the name of the original text file in the data folder.
 
-Document (the original text exactly as it appears in the text file),
+Document :the original text exactly as it appears in the text file.
 
-Text   (preprocessed text of this document).
+Text :preprocessed text of this document.
 
-Tokens (tokenized text of this document).
+Tokens :tokenized text of this document.
 
-Lemmas (lemmatized text of this document).
+Lemmas :lemmatized text of this document.
 
-Parts-of-speech (parts of speech of all the tokens in this document).
+Parts-of-speech : parts of speech of all the tokens in this document.
 
-Proper_Nouns (specific names of people, places, organizations, or things that are capitalized in the text.)
+Proper_Nouns :specific names of people, places, organizations, or things that are capitalized in the text.)
 
-Named_Entities (specific words or phrases in text that represent real-world entities such as persons, organizations, locations, dates, or numerical expressions.)
+Named_Entities :specific words or phrases in text that represent real-world entities such as persons, organizations, locations, dates, or numerical expressions.)
 
-NE_Words ( the words or tokens within a text that have been recognized or identified as named entities through a specific NLP process or system.)``
+NE_Words : the words or tokens within a text that have been recognized or identified as named entities through a specific NLP process or system.)
+
 
 ## 8.Format of the files in the corpus
 
