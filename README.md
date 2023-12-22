@@ -107,6 +107,18 @@ POS:
 Lemmas:
 ['you', 'belong', 'with', 'I', 'it', '’', 'as', 'eternally', 'teenage', 'as', 'anything', 'Swift', 'ever', 'write', ',', 'but', 'that', '’', 'no', 'reason', 'to', 'have', 'to', 'grow', 'out', 'of', 'it', '.', 'adult', 'life', 'be', 'full', 'of', 'nothing', 'if', 'not', 'many', 'equivalent', 'to', 'high', '-', 'school', 'friend', '-', 'zoning', '.', 'who', 'among', 'we', 'eer', 'stop', 'wish', 'we', '’d', 'be', 'see', 'for', 'our', 'true', 'self', 'by', 'the', 'guy', 'who', 'can', 'not', 'take', 'his', 'eye', 'off', 'the', 'cheer', 'captain', ',', 'whether', 'for']......
 
+Tokens
+['You', 'Belong', 'With', 'Me', 'It', '’s', 'as', 'eternally', 'teenaged', 'as', 'anything', 'Swift', 'ever', 'wrote', ',', 'but', 'that', '’s', 'no', 'reason', 'to', 'have', 'to', 'grow', 'out', 'of', 'it', '.', 'Adult', 'life', 'is', 'full', 'of', 'nothing', 'if', 'not']...
+
+Proper_Nouns
+['Swift', 'eer', 'Swift']
+['Taylor', 'Version', 'Groundhog', 'Day', 'Swift', 'Swifties', 'All', 'Version']...
+
+Named_Entities
+['DATE', 'PERSON', 'ORDINAL', 'DATE']
+['WORK_OF_ART', 'WORK_OF_ART', 'ORG', 'TIME', 'NORP', 'TIME', 'WORK_OF_ART', 'WORK_OF_ART', 'TIME']
+['PERSON', 'ORG', 'PERSON', 'PRODUCT', 'PERSON', 'GPE', 'ORDINAL', 'PERSON']...
+
 ### Tools
 
 SpaCy
