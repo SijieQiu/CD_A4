@@ -1,12 +1,12 @@
 # Corpus Analysis with spaCy
 
-Taylor Swift’s 50 Best Songs, Ranked
+Analysis of the Top 50 Songs by Taylor Swift
 
 If you would like more information, please refer to [here](https://variety.com/lists/best-taylor-swift-songs-ranked/tim-mcgraw/)
 
 ## 1.The corpus itself
 
-```This corpus comes from a ranked list done by Chris Willman, which focuses on ranking, parsing and reviewing several of Taylor swift's albums.```
+```This corpus comes from a ranked song list analysis done by Chris Willman, which focuses on ranking, parsing and reviewing several of Taylor swift's albums.```
 
 “I’m doing good, I’m on some new shit,” Taylor Swift softly declared at the outset of “Folklore,” and truer sentiments are never constantly spoken than in the case of the woman who somehow manages to the best and most prolific songwriter in pop. Consider that, just since the last time she went on tour, Swift has released six albums, four of which were all-new, two of which dug into her vaults and proved she’s even more of a constant song fount than we knew. New shit is her brand — maybe her compulsion, too — and definitely our pleasure.
 
@@ -35,25 +35,9 @@ Insight into Taylor Swift's Work: It offers insights into Swift's evolution as a
 
 ## 3.Text selection criteria
 
-### Ranking and Critical Assessment:
+### My Perspective:
 
-Song Quality: Selection based on the perceived quality, impact, and artistic merit of Taylor Swift's songs.
-
-Album Representation: Inclusion of songs from various albums to cover a broad spectrum of Swift's work.
-
-Subjective Evaluation: The author's personal preferences and critical evaluation likely influenced the inclusion of certain songs.
-
-### Diversity and Representation:
-
-Spanning Eras: Songs chosen from different eras of Taylor Swift's career to represent her growth and evolution as an artist.
-
-Balance between Hits and Deep Cuts: Including both popular hits and lesser-known "deep cuts" to offer a diverse representation of her music.
-
-### Exclusion Criteria:
-
-Subjective Exclusion: Certain songs might have been omitted due to personal biases or the author's specific criteria for what defines a "top" song.
-
-Space Limitations: Given the finite space of a "top 50" list, limitations in the number of songs chosen might result in exclusions.
+My Perferences: As an avid enthusiast of Taylor Swift's music, I ramdomly collected the texts from a particular webpage.
 
 ### Author's Perspective:
 Author's Preferences: The selection might reflect the author's preferences, tastes, or critical viewpoints on Taylor Swift's music.
@@ -66,7 +50,7 @@ Identifying the Source: The corpus is  originate from a ranked list created by C
 
 ### Manual Extraction and Annotation:
 
-Manual Selection of Texts: The text excerpts about Taylor Swift were manually selected from the list written by Chris Willman.
+Manual Selection of Texts: The text excerpts about Taylor Swift's songs were manually selected from the list written by Chris Willman in the web page by me.
 
 ### Text Extraction:
 
@@ -148,12 +132,10 @@ Named_Entities :specific words or phrases in text that represent real-world enti
 NE_Words : the words or tokens within a text that have been recognized or identified as named entities through a specific NLP process or system.)
 
 
-## 8.Format of the files in the corpus
+## 8.The quality checks
 
 Data Integrity Checks
 
 Text Specific Quality Checks
 
 Named Entity Recognition (NER) Quality Check
-
-
